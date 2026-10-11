@@ -1,14 +1,25 @@
 # Hi, I'm Youssef
 
-My interests sit at the intersection of **AI, Python automation and cybersecurity**, with a focus on application security, systems and networks.
+**AI & Automation · Cybersecurity**
+
+I'm interested in agentic AI, Python automation and the intersection of machine learning and security. My projects also explore application access control, systems and networks.
 
 ## Selected Projects
 
-| Project | Focus | Stack |
+| ML Malware Detector | E-Commerce Access Control | Smart Business Network |
 | --- | --- | --- |
-| [ML Malware Detector](https://github.com/glytched69/ml-malware-detector) | Windows executable analysis and machine-learning classification | Python, scikit-learn, PyQt5 |
-| [E-Commerce Access Control](https://github.com/glytched69/ecommerce-access-control) | Attribute-based access policies and application security | Node.js, Express, MySQL, Python |
-| [Smart Business Network](https://github.com/glytched69/smart-business-network-iot) | Network segmentation, redundancy and IoT security simulation | Cisco Packet Tracer, VLANs, OSPF, HSRP |
+| [![Malware detector desktop interface](https://raw.githubusercontent.com/glytched69/ml-malware-detector/main/assets/desktop-interface.png)](https://github.com/glytched69/ml-malware-detector) | [![Geographic access-policy settings](https://raw.githubusercontent.com/glytched69/ecommerce-access-control/main/assets/geographic-policy.png)](https://github.com/glytched69/ecommerce-access-control) | [![Business network and IoT topology](https://raw.githubusercontent.com/glytched69/smart-business-network-iot/main/assets/network-topology.png)](https://github.com/glytched69/smart-business-network-iot) |
+| Static PE analysis, classifier comparison and a desktop prototype. | Geographic, age and time-based policies in an e-commerce application. | Segmented network, redundant gateways and smart-building scenarios. |
+| Python · scikit-learn · PyQt5 | Node.js · Express · MySQL · Python | Packet Tracer · VLANs · OSPF · HSRP |
+| [Code & screenshots](https://github.com/glytched69/ml-malware-detector) | [Code & diagrams](https://github.com/glytched69/ecommerce-access-control) | [Simulation & scenarios](https://github.com/glytched69/smart-business-network-iot) |
+
+## Technologies Used in These Projects
+
+| Area | Technologies |
+| --- | --- |
+| ML & desktop | Python, pandas, NumPy, scikit-learn, PyQt5 |
+| Application development | JavaScript, Node.js, Express, MySQL, Flask |
+| Network simulation | Cisco Packet Tracer, VLANs, ACLs, OSPF, HSRP |
 
 ## Interests
 
@@ -16,4 +27,4 @@ My interests sit at the intersection of **AI, Python automation and cybersecurit
 - Application security and machine learning for cybersecurity
 - CTF challenges, systems and networks
 
-[LinkedIn](https://www.linkedin.com/in/youssef-el-ghouari-347984278/)
+[Connect on LinkedIn](https://www.linkedin.com/in/youssef-el-ghouari-347984278/)
