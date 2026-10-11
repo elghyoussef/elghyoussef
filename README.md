@@ -1,6 +1,6 @@
 # Hi, I'm Youssef
 
-I'm a second-year Cybersecurity Master's student with a background in systems and networks. My interests sit at the intersection of **AI, Python automation and cybersecurity**.
+My interests sit at the intersection of **AI, Python automation and cybersecurity**, with a focus on application security, systems and networks.
 
 ## Selected Projects
 
@@ -15,7 +15,5 @@ I'm a second-year Cybersecurity Master's student with a background in systems an
 - Agentic AI and reliable automation
 - Application security and machine learning for cybersecurity
 - CTF challenges, systems and networks
-
-I'm looking for a **final-year (PFE) internship** in AI, automation or cybersecurity.
 
 [LinkedIn](https://www.linkedin.com/in/youssef-el-ghouari-347984278/)
